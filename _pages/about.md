@@ -5,17 +5,19 @@ title: Gagan Bansal
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
 
 news: false 
 social: false 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am fifth graduate student at the Allen School of the University of Washington, Seattle where I conduct interdiscipliary research on artificial intelligence, machine learning, and human-computer interaction. I am a part of the [UW CrowdLab](https://crowdlab.cs.washington.edu) where I am advised by [Dan Weld](https://homes.cs.washington.edu/~weld){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests span topics such as human-centered machine learning, explainable AI, and human-AI collaboration to AI develop systems that consider and improve human performance. which is crucial to developing AI systems that interact with people. I am interested in both the algorithimic and interfaces sides.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you are a UW CSE undergraduate/masters students and interested in conducting research on human-centered machine learning, please send me an email!
 
+<hr>
+ 
 <h4>Publications</h4>
 {% bibliography -f papers -q @*[]* %}
